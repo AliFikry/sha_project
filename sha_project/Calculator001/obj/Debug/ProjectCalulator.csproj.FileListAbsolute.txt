@@ -1,0 +1,10 @@
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\ProjectCalulator.csprojAssemblyReference.cache
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\Calculator001.Properties.Resources.resources
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\ProjectCalulator.csproj.GenerateResource.cache
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\ProjectCalulator.csproj.CoreCompileInputs.cache
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\Calculator001.exe
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\Calculator001.pdb
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\bin\Debug\Calculator001.exe.config
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\bin\Debug\Calculator001.exe
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\bin\Debug\Calculator001.pdb
+C:\Users\alifi\Downloads\Compressed\Calculator001_sn\Calculator001\obj\Debug\ProjectCalulator.Form1.resources
